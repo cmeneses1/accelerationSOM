@@ -3,4 +3,4 @@ Recognising different gestures done with a smartphone such as rigth-handed, left
 
 Language: Spanish.
 
-The compiled LiveScript can be seen in [compiled_accelerationSOM.pdf](https://github.com/cmeneses1/accelerationSOM/blob/main/compiled_accelerationSOM.pdf).
+A compiled LiveScript can be seen in [compiled_accelerationSOM.pdf](https://github.com/cmeneses1/accelerationSOM/blob/main/compiled_accelerationSOM.pdf).
